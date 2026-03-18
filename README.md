@@ -17,9 +17,12 @@ My focus areas:
 
 | Project | Domain | Outcome |
 |---|---|---|
-| [Responsible AI Workflow – Eventso](https://github.com/katemwatu/responsible-ai-workflow-eventso) | AI Ethics & Governance | End-to-end RAI framework, GDPR + EU AI Act aligned |
-| [Big Data Integration & Dashboards](https://github.com/katemwatu/big_data) | Data Product Ownership | Unified 5 data sources into a single Azure Data Lake; executive dashboards with near-real-time KPIs |
-| [Kenya County Fund Allocation Model](https://github.com/katemwatu/public_dataset_relationship_tables) | Data Modelling & Governance | Star schema model surfacing equity KPIs for public accountability |
+| [Global Reporting Transformation – 22 Countries](https://github.com/katemwatu/big_data) | Data Product Ownership | Eliminated 10 days/month of FTE work; rebuilt KPI framework from scratch; automated pipeline across 22 countries |
+| [Responsible AI Workflow – Eventso](https://github.com/katemwatu/responsible-ai-workflow-eventso) | AI Governance & Strategy | End-to-end RAI framework aligned to GDPR + EU AI Act; embedded across full product lifecycle |
+| [B2B SaaS Feature Strategy – Smart Rotations](https://github.com/katemwatu/b2b-saas-feature-strategy-smart-rotations) | Product Strategy & Commercial Thinking | 3 prioritised feature bets; €770K–€900K 12-month revenue model with full assumptions |
+| [Marketplace Product Strategy – Bolt](https://github.com/katemwatu/marketplace-product-strategy-bolt) | Marketplace Strategy & Data Analysis | Dual-sided feature strategy + root cause analysis reducing overcharge tickets by 40–50% |
+| [Kenya County Fund Allocation Model](https://github.com/katemwatu/public_dataset_relationship_tables) | Data Modelling & Public Accountability | Star schema model surfacing equity KPIs on fund distribution across counties |
+
 
 ## Core Competencies
 
